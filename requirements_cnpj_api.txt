@@ -1,0 +1,8 @@
+aiosqlite
+fastapi
+nest_asyncio
+pandas
+pywebio
+SQLAlchemy
+uvicorn
+
