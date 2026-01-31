@@ -19,7 +19,7 @@ No console, dentro de um ambiente python, para instalar as bibliotecas utilizada
 
 Para executar o script para gerar listas, digite
 
-<b>python cnpj_apis.py</b>
+<b>python cnpj_api.py</b>
 
 A primeira vez que o script for rodado, irá gerar índices no arquivo cnpj.db. Isso poderá levar dezenas de minutos ou horas para execução, dependendo do computador. O arquivo cnpj.db final terá mais de 60GB!
 
@@ -62,8 +62,10 @@ https://www.oarcanjo.net/site/doe/
 Em caso de erros, dúvidas ou sugestões, abra uma issue (https://github.com/rictom/cnpj_API/issues) neste repositório.
 
 ## Outras referências:
-Projeto para visualizar os relacionamentos de sócios e de empresas de forma gráfica: https://github.com/rictom/rede-cnpj;<br>
-Carregar os dados de cnpjs para o banco de dados MYSQL: https://github.com/rictom/cnpj-mysql.<br>
+
+Fazer consultas de listas de empresas: https://github.com/rictom/cnpj_consulta<br>
+Projeto para visualizar os relacionamentos de sócios e de empresas de forma gráfica: https://github.com/rictom/rede-cnpj<br>
+Carregar os dados de cnpjs para o banco de dados MYSQL: https://github.com/rictom/cnpj-mysql<br>
 
 ## Histórico de versões
 versão 0.1 (janeiro/2026)
