@@ -17,13 +17,13 @@ Uma versão executável está na pasta <b>apps</b> deste repositório. Foi gerad
 No console, dentro de um ambiente python, para instalar as bibliotecas utilizadas, rode
 <b>pip install -r requirements_cnpj_api.txt</b>
 
-Para executar o script para gerar listas, digite
+Para executar o script:
 
 <b>python cnpj_api.py</b>
 
 A primeira vez que o script for rodado, irá gerar índices no arquivo cnpj.db. Isso poderá levar dezenas de minutos ou horas para execução, dependendo do computador. O arquivo cnpj.db final terá mais de 60GB!
 
-Abra o endereço http:127.0.0.1:8015/docs no navegador para visualizar a página de testes da api:
+Abra o endereço [http:127.0.0.1:8015/docs](http:127.0.0.1:8015/docs) no navegador para visualizar a página de testes da api:
 <img width="1436" height="575" alt="image" src="https://github.com/user-attachments/assets/3c33c15a-d99b-45a1-af8e-67372e366913" />
 
 
